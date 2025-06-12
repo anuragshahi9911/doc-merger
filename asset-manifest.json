@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/doc-merger/static/css/main.10e12ab3.css",
+    "main.js": "/doc-merger/static/js/main.39a7fbfa.js",
+    "index.html": "/doc-merger/index.html",
+    "main.10e12ab3.css.map": "/doc-merger/static/css/main.10e12ab3.css.map",
+    "main.39a7fbfa.js.map": "/doc-merger/static/js/main.39a7fbfa.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.10e12ab3.css",
+    "static/js/main.39a7fbfa.js"
+  ]
+}
